@@ -10,25 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_Feature_Demo
+  m_Name: Space_2
   m_EditorClassIdentifier: 
   version: 1
-  sku: 6679d48b56fbf3162f0b6d7a
-  packageName: Autoconocimiento
+  sku: 66887283bd196996e109594f
+  packageName: Conductas Sociales y Actos Disruptivos
   thumbnail: {fileID: 2800000, guid: 0ed50c0948bf87847abe45be40276f76, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: g0ah455igwb7ioxg6wzp6
-<<<<<<< HEAD
-  scene: {fileID: 102900000, guid: d1a6e321e6e1b3a41b9f5d2d07b73b1c, type: 3}
-=======
-  scene: {fileID: 102900000, guid: 565237df50736db48971123e6e8dc4a7, type: 3}
->>>>>>> b621c3a0f66685c75cae8aa374d6b783d34facf0
+  scene: {fileID: 102900000, guid: d5b65d7eff3889047bd40e6b4b54a65b, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: a8d426e75053c2d4cac36e088756656e,
     type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
-    serverCapacitySetting: 0
-    serverInstanceCapacity: 50
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16
