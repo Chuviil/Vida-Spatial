@@ -15,7 +15,6 @@ MonoBehaviour:
   _configVersion: 1
   _defaultWorldID: g0ah455igwb7ioxg6wzp6
   _packages:
-  - {fileID: 11400000, guid: f9f137dea7f63477ba0010b47000a828, type: 2}
   - {fileID: 11400000, guid: 72ffea1652c674c0a9800acaee82a68a, type: 2}
   - {fileID: 11400000, guid: 520d2d878c86648c5bde931f73b9ddc9, type: 2}
   - {fileID: 11400000, guid: 24ccd46bd00234bad93fbc923fd4ea07, type: 2}
@@ -25,3 +24,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 49d0a134c7399441c8ef5c13203a1186, type: 2}
   - {fileID: 11400000, guid: d98a92fb003aebd4da0d970ba97935d9, type: 2}
   - {fileID: 11400000, guid: 5b5a9c4d5b40aad49824775e711e2241, type: 2}
+  - {fileID: 11400000, guid: fcb87a6da12329f4c81eda5e8a713a8a, type: 2}
