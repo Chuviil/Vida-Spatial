@@ -7119,7 +7119,7 @@ MonoBehaviour:
     material: {fileID: 0}
   iconType: 0
   icon: {fileID: 0}
-  interactiveRadius: 9.197424
+  interactiveRadius: 10
   visibilityRadius: 10
   onInteractEvent:
     id: 0
@@ -9435,8 +9435,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 679647456a363450ab8d072b2a91f5a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: Pruebas y medidas objetivas de comportamiento
-  description: Explicacion aqui ;D
+  title: 'Respuesta Correcta:'
+  description: 'D) Pruebas y medidas objetivas de comportamiento
+
+
+    Retroalimentacion:
+    Las pruebas objetivas son consideradas altamente confiables y ofrecen datos especificos
+    sobre nuestras habilidades y conocimientos.
+
+'
   titleFontOverride:
     overrideFont: 0
     font: {fileID: 0}

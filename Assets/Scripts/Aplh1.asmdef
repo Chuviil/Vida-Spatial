@@ -1,5 +1,5 @@
 {
-	"name": "Aplh1",
+	"name": "CreatorToolkitCustomScripts",
 	"references": [
 		"SpatialSys.UnitySDK",
 		"Unity.TextMeshPro"

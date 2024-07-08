@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45221213, g: 0.3655102, b: 0.51945937, a: 1}
+  m_IndirectSpecularColor: {r: 0.45479593, g: 0.36804387, b: 0.52257335, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -42457,7 +42457,7 @@ MonoBehaviour:
   id: 7
   version: 2
   questName: Quest Final
-  description: Recoge tu sabiduria
+  description: Recoge tu sabiduria(Pergaminos)
   startAutomatically: 0
   saveUserProgress: 1
   tasksAreOrdered: 1
